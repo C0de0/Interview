@@ -1,0 +1,17 @@
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Persistance.deps.json
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Persistance.dll
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.csprojAssemblyReference.cache
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.AssemblyInfoInputs.cache
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.AssemblyInfo.cs
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Domain.dll
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Persistance.runtimeconfig.json
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Persistance.runtimeconfig.dev.json
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Persistance.pdb
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Utilities.dll
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Domain.pdb
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\bin\Debug\netcoreapp3.1\Interview.Utilities.pdb
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.csproj.CopyComplete
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.dll
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.pdb
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Persistance\obj\Debug\netcoreapp3.1\Interview.Persistance.genruntimeconfig.cache

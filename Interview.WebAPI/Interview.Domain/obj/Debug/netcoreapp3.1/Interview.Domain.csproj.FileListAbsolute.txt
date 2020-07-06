@@ -1,0 +1,9 @@
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\bin\Debug\netcoreapp3.1\Interview.Domain.deps.json
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\bin\Debug\netcoreapp3.1\Interview.Domain.dll
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\bin\Debug\netcoreapp3.1\Interview.Domain.pdb
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\obj\Debug\netcoreapp3.1\Interview.Domain.csprojAssemblyReference.cache
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\obj\Debug\netcoreapp3.1\Interview.Domain.AssemblyInfoInputs.cache
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\obj\Debug\netcoreapp3.1\Interview.Domain.AssemblyInfo.cs
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\obj\Debug\netcoreapp3.1\Interview.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\obj\Debug\netcoreapp3.1\Interview.Domain.dll
+C:\Users\Ja\source\repos\Interview.WebAPI\Interview.Domain\obj\Debug\netcoreapp3.1\Interview.Domain.pdb
